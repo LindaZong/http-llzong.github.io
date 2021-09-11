@@ -7,7 +7,7 @@ School of Software Technology，Dalian University of Technology
 Multi-modal learning，Sentiment Analysis，Clustering
 
 ## Publications
-####Conference
+#### Conference
 	
 - **FedCMR: Federated Cross-Modal Retrieval.** 
 **Linlin Zong**, Qiujie Xie, Jiahui Zhou, Peiran Wu, Xianchao Zhang, Bo Xu
@@ -18,7 +18,7 @@ Multi-modal learning，Sentiment Analysis，Clustering
 - **Multimodal Clustering via Deep Commonness and Uniqueness Mining.**
 **Linlin Zong**, Faqiang Miao, Xianchao Zhang, Bo Xu:
 CIKM 2020: 2357-2360
-- **End-To-End Deep Multimodal Clustering. **
+- **End-To-End Deep Multimodal Clustering.**
 Xianchao Zhang, Jie Mu, **Linlin Zong**, Xiaochun Yang
 ICME 2020: 1-6
 - **Transductive Prototypical Network For Few-Shot Classification.**
@@ -27,26 +27,26 @@ ICIP 2020: 1671-1675
 - **Constrained Spectral Clustering Network with Self-Training.**
 Xinyue Liu, Shichong Yang, **Linlin Zong**
 ICPR 2020: 2861-2866
--  **Deep Multimodal Clustering with Cross Reconstruction. **
+-  **Deep Multimodal Clustering with Cross Reconstruction.**
 Xianchao Zhang, Xiaorui Tang, **Linlin Zong**, Xinyue Liu, Jie Mu
 PAKDD (1) 2020: 305-317
 - **Spectral Perturbation Meets Incomplete Multi-view Data.** 
-Hao Wang,** Linlin Zong**, Bing Liu, Yan Yang, Wei Zhou
+Hao Wang,**Linlin Zong**, Bing Liu, Yan Yang, Wei Zhou
 **IJCAI** 2019: 3677-3683
-- **One Shot Learning with Margin. **
+- **One Shot Learning with Margin.**
 Xianchao Zhang, Jinlong Nie, **Linlin Zong**, Hong Yu, Wenxin Liang
 PAKDD (2) 2019: 305-317
-- **Weighted Multi-View Spectral Clustering Based on Spectral Perturbation. **
+- **Weighted Multi-View Spectral Clustering Based on Spectral Perturbation.**
 **Linlin Zong**, Xianchao Zhang, Xinyue Liu, Hong Yu
 **AAAI** 2018: 4621-4629
 -  **Constrained NMF-Based Multi-View Clustering on Unmapped Data.**
 Xianchao Zhang, **Linlin Zong**, Xinyue Liu, Hong Yu
 **AAAI** 2015: 3174-3180
--  **Multi-view Clustering via Multi-manifold Regularized Nonnegative Matrix Factorization. **
+-  **Multi-view Clustering via Multi-manifold Regularized Nonnegative Matrix Factorization.**
 Xianchao Zhang, Long Zhao, **Linlin Zong**, Xinyue Liu, Hong Yu
 ICDM 2014: 1103-1108
 
-####Journal
+#### Journal
 - **Incomplete multi-view clustering with partially mapped instances and clusters. **
 **Linlin Zong**, Faqiang Miao, Xianchao Zhang, Xinyue Liu, Hong Yu: 
 Knowl. Based Syst. 212: 106615 (2021)

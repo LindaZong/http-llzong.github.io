@@ -47,28 +47,28 @@ Xianchao Zhang, Long Zhao, **Linlin Zong**, Xinyue Liu, Hong Yu
 ICDM 2014: 1103-1108
 
 #### Journal
-- **Incomplete multi-view clustering with partially mapped instances and clusters. **
+- **Incomplete multi-view clustering with partially mapped instances and clusters.**
 **Linlin Zong**, Faqiang Miao, Xianchao Zhang, Xinyue Liu, Hong Yu: 
 Knowl. Based Syst. 212: 106615 (2021)
-- **Multi-view clustering on data with partial instances and clusters. **
+- **Multi-view clustering on data with partial instances and clusters.**
 **Linlin Zong**, Xianchao Zhang, Xinyue Liu, Hong Yu
 Neural Networks 129: 19-30 (2020)
 -  **Multi-view clustering via clusterwise weights learning.**
 Qianli Zhao, **Linlin Zong**, Xianchao Zhang, Xinyue Liu, Hong Yu
 Knowl. Based Syst. 193: 105459 (2020)
-- **Multi-view clustering on unmapped data via constrained non-negative matrix factorization. **
+- **Multi-view clustering on unmapped data via constrained non-negative matrix factorization.**
 **Linlin Zong**, Xianchao Zhang, Xinyue Liu
 Neural Networks 108: 155-171 (2018)
 - **Discovering social spammers from multiple views.**
 Hua Shen, Fenglong Ma, Xianchao Zhang, **Linlin Zong**, Xinyue Liu, Wenxin Liang
 Neurocomputing 225: 49-57 (2017)
-- 	**Multi-view clustering via multi-manifold regularized non-negative matrix factorization. **
+- **Multi-view clustering via multi-manifold regularized non-negative matrix factorization.**
 **Linlin Zong**, Xianchao Zhang, Long Zhao, Hong Yu, Qianli Zhao
 Neural Networks 88: 74-89 (2017)
 -  **Local linear neighbor reconstruction for multi-view data.**
 **Linlin Zong**, Xianchao Zhang, Hong Yu, Qianli Zhao, Feng Ding
 Pattern Recognit. Lett. 84: 56-62 (2016)
--  **Sampling for Nyström Extension-Based Spectral Clustering: Incremental Perspective and Novel Analysis. **
+-  **Sampling for Nyström Extension-Based Spectral Clustering: Incremental Perspective and Novel Analysis.**
 Xianchao Zhang, **Linlin Zong**, Quanzeng You, Xing Yong
 ACM Trans. Knowl. Discov. Data （**TKDD**）11(1): 7:1-7:25 (2016)
 -  **Constrained Clustering With Nonnegative Matrix Factorization.**

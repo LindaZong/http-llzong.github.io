@@ -9,7 +9,7 @@ Multi-modal learning，Sentiment Analysis，Clustering
 ## Publications
 #### Conference
 	
-- **FedCMR: Federated Cross-Modal Retrieval.** [code](https://github.com/hasakiXie123/FedCMR)  
+- **FedCMR: Federated Cross-Modal Retrieval.**【[code](https://github.com/hasakiXie123/FedCMR)】   
 **Linlin Zong**, Qiujie Xie, Jiahui Zhou, Peiran Wu, Xianchao Zhang, Bo Xu  
 **SIGIR** 2021: 1672-1676
 - **Maintaining Consistency with Constraints: A Constrained Deep Clustering Method.**  
